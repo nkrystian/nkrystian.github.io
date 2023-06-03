@@ -8,3 +8,4 @@ description: "A page with all available posts"
 
 ## Strona z postami
 * tu kiedyś będzie dużo postów
+* i tu też
