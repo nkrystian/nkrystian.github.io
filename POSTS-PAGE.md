@@ -1,5 +1,6 @@
 ---
 layout: page
+theme: jekyll-theme-minimal
 title: "POSTS-PAGE"
 permalink: /POSTS-PAGE
 description: "A page with all available posts"
